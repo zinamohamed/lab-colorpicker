@@ -1,5 +1,7 @@
 import React from 'react';
+import ColorPicker from '../../containers/ColorPicker';
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <ColorPicker />;
+  
 }
